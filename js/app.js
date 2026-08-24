@@ -1,8 +1,8 @@
 (() => {
-    const APK_URL = "https://lzplayhd.online/LzPlay.apk";
-    const VERSION_URL = "https://lzplayhd.online/latest-version.txt";
-    const SHARE_URL = "https://lzplayhd.online";
-    const SHARE_TITLE = "LzPlay";
+    const APK_URL = "https://plix-lz.github.io/Plix/Plix.apk";
+    const VERSION_URL = "https://plix-lz.github.io/Plix/latest-version.txt";
+    const SHARE_URL = "https://plix-lz.github.io/Plix";
+    const SHARE_TITLE = "PLIX";
     const SHARE_TEXT =
         "¡Mira LzPlay! Películas y series, ahora en nueva versión.\nDescárgala gratis aquí:";
     const SHARE_IMAGE = "assets/share-cover.png";
